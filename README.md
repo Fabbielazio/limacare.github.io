@@ -1,2 +1,12 @@
 # lima-care
-Care about victims in life
+ 👋 Hi, I’m @fabbielazio
+- 👀 I’m interested in making the word to be better by improving online tec...
+- 🌱 I’m currently learning working torwad an abundant future for our clients and employees  ...
+- 💞️ I’m looking to collaborate on financial tec code,investment opportunities,deployment management,software documentation,am also dealing with helping people in rural areas ,...
+- 📫 How to reach me in my email franklazio21@gmail..com ...
+
+<!---
+fabbielazio/fabbielazio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
